@@ -1,3 +1,3 @@
 
-export const URL = 'http://localhost/api-dipongo/public';
+export const URL = 'https://app-api.generationsauveteur.fr';
 
